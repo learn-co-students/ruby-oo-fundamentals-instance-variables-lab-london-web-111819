@@ -12,5 +12,3 @@ class Dog
 
 lassie = Dog.new
 lassie.name = "Lassie"
-binding.pry
-0
