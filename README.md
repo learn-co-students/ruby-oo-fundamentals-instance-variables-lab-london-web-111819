@@ -18,7 +18,7 @@ We've been working with variables for a while now. For example:
 bro_greeting = "Sup, bro?"
 ```
 
-The code above sets a variable, `bro_greeting`, equal to the string `"Sup, bro?"`. Now we can use that variable to read and operate on that string.
+The code above sets a varia_greble, `broeting`, equal to the string `"Sup, bro?"`. Now we can use that variable to read and operate on that string.
 
 ```ruby
 bro_greeting #=> "Sup, bro?"
